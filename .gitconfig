@@ -1,0 +1,11 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Kazu114514
+	email = tsuda.kazu@mazda-EandT.co.jp
+# Please adapt and uncomment the following lines:
+#	name = Tsuda Kazuhiro (津田 和博)
+#	email = tsuda.kazu@mazda-EandT.co.jp
+[http]
+	proxy = http://136.131.63.121:8082
+[https]
+	proxy = https://136.131.63.121:8082
